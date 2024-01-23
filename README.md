@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-I'm Victor, a seasoned JavaScript and TypeScript backend developer with a proven track record of architecting robust and scalable solutions. Welcome to my GitHub sanctuary where code meets craftsmanship! 🌐
+I'm Victor, a seasoned JavaScript and TypeScript backend developer with a proven track record of architecting robust and scalable solutions. Welcome to my GitHub! 🌐
 
 ## About Me
 
